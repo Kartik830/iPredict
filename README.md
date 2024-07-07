@@ -1,0 +1,2 @@
+# iPredict
+Stock Prediction Model
